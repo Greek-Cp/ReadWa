@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:icon="@drawable/ic_baseline_read_more_24"
+        android:title="Read pesan"
+        android:id="@+id/id_nav_read_pesan"
+        />
+</menu>
